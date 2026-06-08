@@ -16,9 +16,10 @@ export const metadata: Metadata = {
   title: "DevKit - Free Developer Tools",
   description: "Fast, free and simple tools for developers. JSON formatter, password generator, CSS gradient and more.",
   verification: {
-    google: "uFIUob1Odu9rjTIC",
+    google: "FrxP6yRAY0pO7LII",
   },
 };
+
 export default function RootLayout({
   children,
 }: Readonly<{
