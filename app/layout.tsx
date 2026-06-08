@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "DevKit - Free Developer Tools",
-  description: "Fast, free and simple tools for developers. JSON formatter, password generator, CSS gradient and more.",
+  description: "Fast, free and simple tools for developers.",
   verification: {
     google: "FrxP6yRAY0pO7LII",
   },
